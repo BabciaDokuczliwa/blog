@@ -1,0 +1,38 @@
+ul{
+    list-style: square;
+}
+.img, .img3{
+    float: left; width: 190px; 
+    border-radius: 100px;
+}
+.img2{
+    float: right;
+    border-radius: 100px;
+}
+p{
+    font: icon;
+}
+div.BritishShorthair{
+    box-sizing: border-box;
+    background-color: rgb(40, 165, 165);
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.devon{
+    box-sizing: border-box;
+    background-color: rgb(160, 117, 201);
+    
+}
+div.Norwegian{
+    box-sizing: border-box;
+    background-color: rgb(186, 194, 201);
+}
+h2{
+    font-size: x-large;
+}
+h1{
+    font-size: 40px;
+   text-decoration: dashed;
+}
+div.read{
+    float: right;
+}

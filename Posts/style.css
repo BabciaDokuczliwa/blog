@@ -1,0 +1,25 @@
+img{
+border-radius: 250px;
+width: 550px;
+position: relative;
+left: 35%;
+
+}
+h2{
+   font-size: 50px;
+   position: relative;
+   left: 45%;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bsh{
+    position: relative;
+    left: 40%;
+    font-size: 50px;
+}
+.nor{
+
+position: relative;
+left:38%;
+}
